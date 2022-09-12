@@ -1,1 +1,5 @@
-
+vscode:
+  extensions: 
+    - broadcomMFD.bridge-for-git-explorer
+    - broadcomMFD.code4z-extension-pack
+    - Zowe.vscode-extension-for-zowe
