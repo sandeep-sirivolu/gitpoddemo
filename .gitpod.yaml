@@ -1,3 +1,7 @@
 vscode:
   extensions: 
     - vscode-extension-for-zowe
+    - rexx-syntax-highlighting
+    - jcl-language-support
+    - broadcomMFD.code4z-extension-pack
+    - broadcomMFD.bridge-for-git-explorer	
