@@ -1,2 +1,2 @@
 # gitpoddemo
-This is Repository for Gitpod Demo's. 
+This is Repository for Gitpod Demo's
