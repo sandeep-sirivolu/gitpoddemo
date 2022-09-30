@@ -4,9 +4,7 @@
         "zosmf": {
             "type": "zosmf",
             "properties": {
-                "port": 10443,
-		"user": "",
-		"password": ""
+                "port": 10443
             },
         },
         "tso": {
