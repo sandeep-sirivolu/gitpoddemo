@@ -4,8 +4,11 @@
         "zosmf": {
             "type": "zosmf",
             "properties": {
-                "port": 10443
-            },
+                "port": 10443,
+                "host": "10.1.2.210",
+                "user": "",
+                "password": ""
+            }
         },
         "tso": {
             "type": "tso",
@@ -28,11 +31,26 @@
             "properties": {},
             "secure": []
         },
-        "db2": {
+        "db2-1": {
             "type": "db2",
-            "properties": {},
-            "secure": []
+            "properties": {
+                "port": 5035,
+                "host": "10.1.2.249",
+                "database": "DALLASB",
+                "user": "",
+                "password": ""                
+            }
         },
+        "db2-2": {
+            "type": "db2",
+            "properties": {
+                "port": 5040,
+                "host": "10.1.2.249",
+                "database": "DALLASC",
+                "user": "",
+                "password": ""                
+            }
+        },   
         "ims": {
             "type": "ims",
             "properties": {},
